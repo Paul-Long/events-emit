@@ -1,0 +1,24 @@
+{
+  "name": "events-emit",
+  "version": "1.0.0",
+  "description": "events emitter eventDispatcher listener",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/events-emit.git"
+  },
+  "keywords": [
+    "events",
+    "emitter",
+    "eventDispatcher",
+    "listener"
+  ],
+  "author": "Paul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/events-emit/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/events-emit#readme"
+}
